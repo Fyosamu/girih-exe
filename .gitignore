@@ -1,0 +1,15 @@
+# Build output that must never leave the machine.
+contract/node_modules/
+contract/cache/
+.contract-env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,32 @@
+{
+  "name": "GIRIH.EXE #002",
+  "description": "Ten generative artworks built from Persian girih geometry - star rosettes, interlaced decagrams and khatam lattice - rendered as neon-lit digital tiles. Every line is computed from a seed; nothing is drawn by hand.",
+  "image": "ipfs://REPLACE_CID/2.png",
+  "external_url": "https://fyosamu.github.io/",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "12-Point Khatam"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Emerald Prayer"
+    },
+    {
+      "trait_type": "Density",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Bloom"
+    },
+    {
+      "trait_type": "Accent",
+      "value": "Pulse"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Metallic"
+    }
+  ]
+}
