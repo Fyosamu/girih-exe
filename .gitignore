@@ -13,3 +13,6 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Internal pricing / channel playbook - stays on this machine, not on a public repo
+SALES.md
